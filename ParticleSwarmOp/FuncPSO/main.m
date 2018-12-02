@@ -13,7 +13,7 @@ clc,close,clear;
 % ------- c1,c2:   acceleration coefficients
 global popsize dimensions V X pBest gBest 
 global w c1 c2  X_max X_min
-popsize = 500;
+popsize = 50;
 dimensions = 4;
 pBest = zeros(popsize, dimensions) + 200;
 gBest = zeros(popsize, 1) + 200;
