@@ -1,7 +1,14 @@
-# 计算智能（Computational Intelligence)
-**本仓库为计算智能相关算法实现，各个算法具体文档请参见相关文件夹**
-## 蚁群优化（Ant Colony Optimization)
-## 遗传算法（Genetic Algorithm)
-## 粒子群优化（Particle Swarm Opitimization）
-## 模拟退火算法（Simulated Annealing）
+# 智能算法
+基于 *MATLAB* 实现智能算法
+
+已实现算法：
+
+蚁群优化 [*Ant Colony Optimization*](https://github.com/HouCQUPT/-2018CI-Assignment/tree/master/AntColonyOp)
+
+遗传算法 [*Genetic Algorithm*](https://github.com/HouCQUPT/-2018CI-Assignment/tree/master/GeneticAlgorithm)
+
+粒子群优化 [*Particle Swarm Opitimization*](https://github.com/HouCQUPT/-2018CI-Assignment/tree/master/ParticleSwarmOp)
+
+模拟退火算法 [*Simulated Annealing*](https://github.com/HouCQUPT/-2018CI-Assignment/tree/master/SimmulatedAnnealing)
+
 2018-12-03 10:53:05 星期一
